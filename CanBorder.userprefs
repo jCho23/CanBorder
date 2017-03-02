@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FE7CC58A-E5C6-4F49-B32F-2FDB5C0D0778}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CanBorder/Tests.cs">
+    <Files>
+      <File FileName="CanBorder/AppInitializer.cs" Line="41" Column="3" />
+      <File FileName="CanBorder/Tests.cs" Line="43" Column="4" />
+      <File FileName="CanBorder/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CanBorder" expanded="True">
+            <Node name="CanBorder" expanded="True">
+              <Node name="CanBorder" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="FirstTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CanBorder PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
